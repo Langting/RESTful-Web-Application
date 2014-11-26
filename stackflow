@@ -1,0 +1,46 @@
+
+<!doctype html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="A short description." />
+    <meta name="keywords" content="put, keywords, here" />
+	<title>Stack Forum</title>
+    <link rel="stylesheet" href="Style.css" type="text/css">
+</head>
+<body>
+<h1>Stack Forum</h1>
+    
+    	<div id="menu">    
+                    
+                        <a class="item" id="nav-questions" href="StackQuery\create.html">Questions</a>
+                        <a class="item" id="nav-tags" href="http://stackoverflow.com/tags">Tags</a>
+                     
+                        <a class="item" id="nav-badges" href="http://stackoverflow.com/help/badges">Badges</a>
+                        <a class="item" id="nav-unanswered" href="http://stackoverflow.com/unanswered">Unanswered</a>
+                    
+                </div>
+       
+        <div id="content">
+        
+<table border= "1" style= "width:100%">
+<tr>
+
+<th colspan="1">Questions</th>
+<th colspan="1">Views</th>
+<th colspan="1">Replies</th>
+</tr>
+<tr>
+<td>How to create a forum like stackoverflow using node?
+</td>
+</tr>
+<tr>
+<td>How to install and run a http server using node?
+</td>
+</tr>
+</table>
+</div>        
+<div id="footer">Created by LG</div>
+</body>
+</html>
+
